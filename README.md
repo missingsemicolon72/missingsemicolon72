@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm missing</h1>
+<h1 align="center">Hi 👋, I'm Vijay Manglani</h1>
 <h3 align="center">A curious, eager-to-learn and passionate web developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=missingsemicolon72&label=Profile%20views&color=0e75b6&style=flat" alt="missingsemicolon72" /> </p>
